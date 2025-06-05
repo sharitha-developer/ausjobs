@@ -1,0 +1,1 @@
+ <li><a class=" text-lg text-white" href="">{{ $slot }}</a></li>
