@@ -1,7 +1,7 @@
 <nav class=" py-5 flex justify-between items-center">
     <div>
         <a href="/">
-            <img src="{{ Vite::asset('resources/images/logo-n1.png') }}" alt="" class=" max-w-40">
+             <img src="{{ Vite::asset('resources/images/logo-n1.png') }}" alt="" class=" max-w-40"> 
         </a>
     </div>
     <div>  
